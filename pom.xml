@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://52.54.143.206:9000/</sonar.host.url>
+		<sonar.host.url>http://3.90.183.86:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
 		<maven.compiler.target>1.7</maven.compiler.target>
@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://http://34.228.195.132:8081/repository/handsonPL-snapshots/</url>
+		    <url>http://http://54.82.65.255:8081/repository/handsonPL-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://34.228.195.132:8081/repository/handsonPL-releases/</url>
+		    <url>http://http://54.82.65.255:8081/repository/handsonPL-releases/</url>
 		</repository>
   	</distributionManagement>
 	
