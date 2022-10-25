@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://http://54.82.65.255:8081/repository/handsonPL-snapshots/</url>
+		    <url>http://54.227.58.35:8081/repository/handsonPL-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://54.82.65.255:8081/repository/handsonPL-releases/</url>
+		    <url>http://54.227.58.35:8081/repository/handsonPL-releases/</url>
 		</repository>
   	</distributionManagement>
 	
